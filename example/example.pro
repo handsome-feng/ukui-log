@@ -1,5 +1,5 @@
 TEMPLATE = subdirs
 
 SUBDIRS = ukui-menu \
-#          ukui-panel \
+          ukui-panel \
           ukui-sidebar
