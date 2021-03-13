@@ -1,0 +1,8 @@
+#ifndef UKUIMENU_DEBUG_H
+#define UKUIMENU_DEBUG_H
+
+#include <QLoggingCategory>
+
+Q_DECLARE_LOGGING_CATEGORY(UKUI_MENU)
+
+#endif // UKUIMENU_DEBUG_H
